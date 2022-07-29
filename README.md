@@ -1,7 +1,7 @@
 # 🍑 Hi there! 🍓
 I am ***Xingru Long*** 🙋🏻, you can always call me ***IRIS*** if this procounces more easily.
 
-Currently I'm a Senior year student in [University of California, also known as UCB](https://www.berkeley.edu) pursuing ***ECON.*** in [Economics](https://www.econ.berkeley.edu).
+Currently I'm a Senior year student in [University of California,Berkeley. Also known as UCB](https://www.berkeley.edu) pursuing ***ECON.*** in [Economics](https://www.econ.berkeley.edu).
 
 <h3 align="center"> <a href="https://imflos.github.io"> imflos.github.io </a></h3> 
 
