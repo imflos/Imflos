@@ -3,6 +3,8 @@ I am ***Xingru Long*** 🙋🏻, you can always call me ***IRIS*** if this proco
 
 Currently I'm a Senior year student in [University of California, also known as UCB](https://www.berkeley.edu) pursuing ***ECON.*** in [Economics](https://www.econ.berkeley.edu).
 
+<h3 align="center"> <a href="https://imflos.github.io"> mflos.github.io </a></h3> 
+
 ![Imflos's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Imflos&show_icons=true&theme=blue-green)
 
 ------
