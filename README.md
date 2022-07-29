@@ -1,4 +1,4 @@
-# Hi there! 👏👏🏻👏🏼👏🏽👏🏾👏🏿
+# 🍑 Hi there! 🍓
 I am ***Xingru Long*** 🙋🏻, you can always call me ***IRIS*** if this procounces more easily.
 
 Currently I'm a Senior year student in [University of California, also known as UCB](https://www.berkeley.edu) pursuing ***ECON.*** in [Economics](https://www.econ.berkeley.edu).
