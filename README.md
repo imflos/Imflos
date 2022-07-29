@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there! 👏👏🏻👏🏼👏🏽👏🏾👏🏿
+I am ***Xingru Long*** 🙋🏻, you can always call me ***IRIS*** if this procounces more easily.
 
-<!--
-**Imflos/Imflos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I'm a Senior year student in [University of California, also known as UCB](https://www.berkeley.edu) pursuing ***ECON.*** in [Economics](https://www.econ.berkeley.edu).
 
-Here are some ideas to get you started:
+![Imflos's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=IRIS&show_icons=true&theme=blue-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------
+
+My research interests mainly are:
+* Investments(bonds,stock market)
+* Human-Computer Interaction (HCI)
+
+A self-driven and creative student with a solid knowledge base in economics and keen acumen in business. Possessing experience working as a restaurant manager, well-versed in establishing management systems and supervising adherence to rules and regulations. Demonstrated excellent creativity by proposing sales-driven strategies that maintained revenue increase during the pandemic. Seeking an entry-level position in marketing to create value for organizations.
+
+
+
+## To know more about me… 🤔
+
+My [personal site](https://Imflos.github.io/) and [resume](https://raw.githubusercontent.com/Imflos/Imflos.github.io/master/imgs/1.jpg) are always public. ☑️
+
+
+
+## Get in touch! 📨
+
+Wanna…
+
+* say hello?
+* ask for a helping hand?
+* report an issue?
+* offer an opportunity?
+* discuss something?
+* ……?
+
+I am always friendly and open 😝, just come and [send](mailto:longxingru2@gmail.com.)!
+
+> I know you won’t but meaningless harassing is never welcomed. 😅
