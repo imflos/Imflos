@@ -9,7 +9,7 @@ Minor: [City Planning](http://guide.berkeley.edu/undergraduate/degree-programs/c
 
 ##  My Web is down here 👹👇🏻
 
-<h3 align="center"> <ahref="https://imflos.github.io"> imflos.github.io </a></h3> 
+<h3 align="center"> <a href="https://imflos.github.io"> imflos.github.io </a></h3>
 
 ![Imflos's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Imflos&show_icons=true&theme=blue-green)
 
