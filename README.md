@@ -1,9 +1,14 @@
 # 🍑 Hi there! 🍓
 I am ***Xingru Long*** 🙋🏻, you can always call me ***IRIS*** if this procounces more easily.
 
-Currently I'm a Senior year student in [University of California,Berkeley. Also known as UCB](https://www.berkeley.edu) pursuing ***ECON.*** in [Economics](https://www.econ.berkeley.edu).
+Currently I'm a Senior year student in [University of California,Berkeley.](https://www.berkeley.edu)
 
-<h3 align="center"> <a My Web:href="https://imflos.github.io"> imflos.github.io </a></h3> 
+Major: [Economics](https://www.econ.berkeley.edu).
+
+Minor: [City Planning](http://guide.berkeley.edu/undergraduate/degree-programs/city-planning/).
+
+##  My Web is down here 👹👇🏻
+<h3 align="center"> <ahref="https://imflos.github.io"> imflos.github.io </a></h3> 
 
 ![Imflos's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Imflos&show_icons=true&theme=blue-green)
 
